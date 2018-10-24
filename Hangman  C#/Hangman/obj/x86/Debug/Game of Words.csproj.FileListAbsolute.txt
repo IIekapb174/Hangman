@@ -1,0 +1,121 @@
+C:\Users\IIekapb174\Desktop\Hangman-master\Hangman\bin\Debug\Hangman.exe
+C:\Users\IIekapb174\Desktop\Hangman-master\Hangman\bin\Debug\Hangman.pdb
+C:\Users\IIekapb174\Desktop\Hangman-master\Hangman\obj\x86\Debug\Game of Words.csprojResolveAssemblyReference.cache
+C:\Users\IIekapb174\Desktop\Hangman-master\Hangman\obj\x86\Debug\Hangman.new_game.resources
+C:\Users\IIekapb174\Desktop\Hangman-master\Hangman\obj\x86\Debug\Hangman.main_window.resources
+C:\Users\IIekapb174\Desktop\Hangman-master\Hangman\obj\x86\Debug\Hangman.Properties.Resources.resources
+C:\Users\IIekapb174\Desktop\Hangman-master\Hangman\obj\x86\Debug\Game of Words.csproj.GenerateResource.Cache
+C:\Users\IIekapb174\Desktop\Hangman-master\Hangman\obj\x86\Debug\Game of Words.csproj.CoreCompileInputs.cache
+C:\Users\IIekapb174\Desktop\Hangman-master\Hangman\obj\x86\Debug\Hangman.exe
+C:\Users\IIekapb174\Desktop\Hangman-master\Hangman\obj\x86\Debug\Hangman.pdb
+C:\Users\IIekapb174\OneDrive\Шарага\Hangman-master — копия\Hangman\bin\Debug\Hangman.exe
+C:\Users\IIekapb174\OneDrive\Шарага\Hangman-master — копия\Hangman\bin\Debug\Hangman.pdb
+C:\Users\IIekapb174\OneDrive\Шарага\Hangman-master — копия\Hangman\obj\x86\Debug\Game of Words.csprojResolveAssemblyReference.cache
+C:\Users\IIekapb174\OneDrive\Шарага\Hangman-master — копия\Hangman\obj\x86\Debug\Hangman.new_game.resources
+C:\Users\IIekapb174\OneDrive\Шарага\Hangman-master — копия\Hangman\obj\x86\Debug\Hangman.main_window.resources
+C:\Users\IIekapb174\OneDrive\Шарага\Hangman-master — копия\Hangman\obj\x86\Debug\Hangman.Properties.Resources.resources
+C:\Users\IIekapb174\OneDrive\Шарага\Hangman-master — копия\Hangman\obj\x86\Debug\Game of Words.csproj.GenerateResource.Cache
+C:\Users\IIekapb174\OneDrive\Шарага\Hangman-master — копия\Hangman\obj\x86\Debug\Game of Words.csproj.CoreCompileInputs.cache
+C:\Users\IIekapb174\OneDrive\Шарага\Hangman-master — копия\Hangman\obj\x86\Debug\Hangman.exe
+C:\Users\IIekapb174\OneDrive\Шарага\Hangman-master — копия\Hangman\obj\x86\Debug\Hangman.pdb
+D:\Users\r27817\Desktop\Шарага — копия\Hangman-master — копия\Hangman\bin\Debug\Hangman.exe
+D:\Users\r27817\Desktop\Шарага — копия\Hangman-master — копия\Hangman\bin\Debug\Hangman.pdb
+D:\Users\r27817\Desktop\Шарага — копия\Hangman-master — копия\Hangman\obj\x86\Debug\Game of Words.csprojResolveAssemblyReference.cache
+D:\Users\r27817\Desktop\Шарага — копия\Hangman-master — копия\Hangman\obj\x86\Debug\Hangman.new_game.resources
+D:\Users\r27817\Desktop\Шарага — копия\Hangman-master — копия\Hangman\obj\x86\Debug\Hangman.main_window.resources
+D:\Users\r27817\Desktop\Шарага — копия\Hangman-master — копия\Hangman\obj\x86\Debug\Hangman.Properties.Resources.resources
+D:\Users\r27817\Desktop\Шарага — копия\Hangman-master — копия\Hangman\obj\x86\Debug\Game of Words.csproj.GenerateResource.Cache
+D:\Users\r27817\Desktop\Шарага — копия\Hangman-master — копия\Hangman\obj\x86\Debug\Game of Words.csproj.CoreCompileInputs.cache
+D:\Users\r27817\Desktop\Шарага — копия\Hangman-master — копия\Hangman\obj\x86\Debug\Hangman.exe
+D:\Users\r27817\Desktop\Шарага — копия\Hangman-master — копия\Hangman\obj\x86\Debug\Hangman.pdb
+D:\Users\r27817\Desktop\Hangman\Hangman\bin\Debug\Hangman.exe
+D:\Users\r27817\Desktop\Hangman\Hangman\bin\Debug\Hangman.pdb
+D:\Users\r27817\Desktop\Hangman\Hangman\obj\x86\Debug\Game of Words.csprojResolveAssemblyReference.cache
+D:\Users\r27817\Desktop\Hangman\Hangman\obj\x86\Debug\Hangman.new_game.resources
+D:\Users\r27817\Desktop\Hangman\Hangman\obj\x86\Debug\Hangman.main_window.resources
+D:\Users\r27817\Desktop\Hangman\Hangman\obj\x86\Debug\Hangman.Properties.Resources.resources
+D:\Users\r27817\Desktop\Hangman\Hangman\obj\x86\Debug\Game of Words.csproj.GenerateResource.Cache
+D:\Users\r27817\Desktop\Hangman\Hangman\obj\x86\Debug\Game of Words.csproj.CoreCompileInputs.cache
+D:\Users\r27817\Desktop\Hangman\Hangman\obj\x86\Debug\Hangman.exe
+D:\Users\r27817\Desktop\Hangman\Hangman\obj\x86\Debug\Hangman.pdb
+C:\Users\IIekapb174\Desktop\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\IIekapb174\Desktop\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\IIekapb174\Desktop\Hangman\Hangman\obj\x86\Debug\Game of Words.csprojResolveAssemblyReference.cache
+C:\Users\IIekapb174\Desktop\Hangman\Hangman\obj\x86\Debug\Hangman.new_game.resources
+C:\Users\IIekapb174\Desktop\Hangman\Hangman\obj\x86\Debug\Hangman.main_window.resources
+C:\Users\IIekapb174\Desktop\Hangman\Hangman\obj\x86\Debug\Hangman.Properties.Resources.resources
+C:\Users\IIekapb174\Desktop\Hangman\Hangman\obj\x86\Debug\Game of Words.csproj.GenerateResource.Cache
+C:\Users\IIekapb174\Desktop\Hangman\Hangman\obj\x86\Debug\Game of Words.csproj.CoreCompileInputs.cache
+C:\Users\IIekapb174\Desktop\Hangman\Hangman\obj\x86\Debug\Hangman.exe
+C:\Users\IIekapb174\Desktop\Hangman\Hangman\obj\x86\Debug\Hangman.pdb
+C:\Users\IIekapb174\Desktop\Hangman — копия\Hangman\bin\Debug\Hangman.exe
+C:\Users\IIekapb174\Desktop\Hangman — копия\Hangman\bin\Debug\Hangman.pdb
+C:\Users\IIekapb174\Desktop\Hangman — копия\Hangman\obj\x86\Debug\Game of Words.csprojResolveAssemblyReference.cache
+C:\Users\IIekapb174\Desktop\Hangman — копия\Hangman\obj\x86\Debug\Hangman.new_game.resources
+C:\Users\IIekapb174\Desktop\Hangman — копия\Hangman\obj\x86\Debug\Hangman.main_window.resources
+C:\Users\IIekapb174\Desktop\Hangman — копия\Hangman\obj\x86\Debug\Hangman.Properties.Resources.resources
+C:\Users\IIekapb174\Desktop\Hangman — копия\Hangman\obj\x86\Debug\Hangman.Razdel.resources
+C:\Users\IIekapb174\Desktop\Hangman — копия\Hangman\obj\x86\Debug\Game of Words.csproj.GenerateResource.Cache
+C:\Users\IIekapb174\Desktop\Hangman — копия\Hangman\obj\x86\Debug\Game of Words.csproj.CoreCompileInputs.cache
+C:\Users\IIekapb174\Desktop\Hangman — копия\Hangman\obj\x86\Debug\Hangman.exe
+C:\Users\IIekapb174\Desktop\Hangman — копия\Hangman\obj\x86\Debug\Hangman.pdb
+C:\Users\IIekapb174\Desktop\Hangman — копия\Hangman\bin\Debug\Interop.WMPLib.dll
+C:\Users\IIekapb174\Desktop\Hangman — копия\Hangman\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\IIekapb174\Desktop\Hangman — копия\Hangman\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\IIekapb174\Desktop\Hangman — копия\Hangman\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\IIekapb174\Desktop\Hangman — копия\Hangman\obj\x86\Debug\Game of Words.csproj.ResolveComReference.cache
+C:\Users\IIekapb174\Desktop\Hangman\Hangman\bin\Debug\Interop.WMPLib.dll
+C:\Users\IIekapb174\Desktop\Hangman\Hangman\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\IIekapb174\Desktop\Hangman\Hangman\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\IIekapb174\Desktop\Hangman\Hangman\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\IIekapb174\Desktop\Hangman\Hangman\obj\x86\Debug\Game of Words.csproj.ResolveComReference.cache
+D:\Users\r27817\Desktop\Hangman\Hangman\bin\Debug\Interop.WMPLib.dll
+D:\Users\r27817\Desktop\Hangman\Hangman\bin\Debug\AxInterop.WMPLib.dll
+D:\Users\r27817\Desktop\Hangman\Hangman\obj\x86\Debug\Interop.WMPLib.dll
+D:\Users\r27817\Desktop\Hangman\Hangman\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Users\r27817\Desktop\Hangman\Hangman\obj\x86\Debug\Game of Words.csproj.ResolveComReference.cache
+D:\Users\r27817\OneDrive\Hangman\Hangman\bin\Debug\Hangman.exe
+D:\Users\r27817\OneDrive\Hangman\Hangman\bin\Debug\Hangman.pdb
+D:\Users\r27817\OneDrive\Hangman\Hangman\bin\Debug\Interop.WMPLib.dll
+D:\Users\r27817\OneDrive\Hangman\Hangman\bin\Debug\AxInterop.WMPLib.dll
+D:\Users\r27817\OneDrive\Hangman\Hangman\obj\x86\Debug\Game of Words.csprojResolveAssemblyReference.cache
+D:\Users\r27817\OneDrive\Hangman\Hangman\obj\x86\Debug\Interop.WMPLib.dll
+D:\Users\r27817\OneDrive\Hangman\Hangman\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Users\r27817\OneDrive\Hangman\Hangman\obj\x86\Debug\Game of Words.csproj.ResolveComReference.cache
+D:\Users\r27817\OneDrive\Hangman\Hangman\obj\x86\Debug\Hangman.new_game.resources
+D:\Users\r27817\OneDrive\Hangman\Hangman\obj\x86\Debug\Hangman.main_window.resources
+D:\Users\r27817\OneDrive\Hangman\Hangman\obj\x86\Debug\Hangman.Properties.Resources.resources
+D:\Users\r27817\OneDrive\Hangman\Hangman\obj\x86\Debug\Game of Words.csproj.GenerateResource.Cache
+D:\Users\r27817\OneDrive\Hangman\Hangman\obj\x86\Debug\Game of Words.csproj.CoreCompileInputs.cache
+D:\Users\r27817\OneDrive\Hangman\Hangman\obj\x86\Debug\Hangman.exe
+D:\Users\r27817\OneDrive\Hangman\Hangman\obj\x86\Debug\Hangman.pdb
+D:\Работки\Hangman  C#\Hangman\bin\Debug\Hangman.exe
+D:\Работки\Hangman  C#\Hangman\bin\Debug\Hangman.pdb
+D:\Работки\Hangman  C#\Hangman\bin\Debug\Interop.WMPLib.dll
+D:\Работки\Hangman  C#\Hangman\bin\Debug\AxInterop.WMPLib.dll
+D:\Работки\Hangman  C#\Hangman\obj\x86\Debug\Game of Words.csprojAssemblyReference.cache
+D:\Работки\Hangman  C#\Hangman\obj\x86\Debug\Interop.WMPLib.dll
+D:\Работки\Hangman  C#\Hangman\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Работки\Hangman  C#\Hangman\obj\x86\Debug\Game of Words.csproj.ResolveComReference.cache
+D:\Работки\Hangman  C#\Hangman\obj\x86\Debug\Hangman.new_game.resources
+D:\Работки\Hangman  C#\Hangman\obj\x86\Debug\Hangman.main_window.resources
+D:\Работки\Hangman  C#\Hangman\obj\x86\Debug\Hangman.Properties.Resources.resources
+D:\Работки\Hangman  C#\Hangman\obj\x86\Debug\Game of Words.csproj.GenerateResource.cache
+D:\Работки\Hangman  C#\Hangman\obj\x86\Debug\Game of Words.csproj.CoreCompileInputs.cache
+D:\Работки\Hangman  C#\Hangman\obj\x86\Debug\Hangman.exe
+D:\Работки\Hangman  C#\Hangman\obj\x86\Debug\Hangman.pdb
+C:\Users\User\Desktop\Portfolio\Hangman  C#\Hangman\bin\Debug\Hangman.exe
+C:\Users\User\Desktop\Portfolio\Hangman  C#\Hangman\bin\Debug\Hangman.pdb
+C:\Users\User\Desktop\Portfolio\Hangman  C#\Hangman\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\Portfolio\Hangman  C#\Hangman\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\Portfolio\Hangman  C#\Hangman\obj\x86\Debug\Game of Words.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Portfolio\Hangman  C#\Hangman\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\Portfolio\Hangman  C#\Hangman\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\Portfolio\Hangman  C#\Hangman\obj\x86\Debug\Game of Words.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\Portfolio\Hangman  C#\Hangman\obj\x86\Debug\Hangman.new_game.resources
+C:\Users\User\Desktop\Portfolio\Hangman  C#\Hangman\obj\x86\Debug\Hangman.main_window.resources
+C:\Users\User\Desktop\Portfolio\Hangman  C#\Hangman\obj\x86\Debug\Hangman.Properties.Resources.resources
+C:\Users\User\Desktop\Portfolio\Hangman  C#\Hangman\obj\x86\Debug\Game of Words.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Portfolio\Hangman  C#\Hangman\obj\x86\Debug\Game of Words.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Portfolio\Hangman  C#\Hangman\obj\x86\Debug\Hangman.exe
+C:\Users\User\Desktop\Portfolio\Hangman  C#\Hangman\obj\x86\Debug\Hangman.pdb

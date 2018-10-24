@@ -1,0 +1,15 @@
+D:\Users\r27817\Desktop\Hangman\Hangman\bin\Release\Hangman.exe
+D:\Users\r27817\Desktop\Hangman\Hangman\bin\Release\Hangman.pdb
+D:\Users\r27817\Desktop\Hangman\Hangman\bin\Release\Interop.WMPLib.dll
+D:\Users\r27817\Desktop\Hangman\Hangman\bin\Release\AxInterop.WMPLib.dll
+D:\Users\r27817\Desktop\Hangman\Hangman\obj\x86\Release\Game of Words.csprojResolveAssemblyReference.cache
+D:\Users\r27817\Desktop\Hangman\Hangman\obj\x86\Release\Interop.WMPLib.dll
+D:\Users\r27817\Desktop\Hangman\Hangman\obj\x86\Release\AxInterop.WMPLib.dll
+D:\Users\r27817\Desktop\Hangman\Hangman\obj\x86\Release\Game of Words.csproj.ResolveComReference.cache
+D:\Users\r27817\Desktop\Hangman\Hangman\obj\x86\Release\Hangman.new_game.resources
+D:\Users\r27817\Desktop\Hangman\Hangman\obj\x86\Release\Hangman.main_window.resources
+D:\Users\r27817\Desktop\Hangman\Hangman\obj\x86\Release\Hangman.Properties.Resources.resources
+D:\Users\r27817\Desktop\Hangman\Hangman\obj\x86\Release\Game of Words.csproj.GenerateResource.Cache
+D:\Users\r27817\Desktop\Hangman\Hangman\obj\x86\Release\Game of Words.csproj.CoreCompileInputs.cache
+D:\Users\r27817\Desktop\Hangman\Hangman\obj\x86\Release\Hangman.exe
+D:\Users\r27817\Desktop\Hangman\Hangman\obj\x86\Release\Hangman.pdb
